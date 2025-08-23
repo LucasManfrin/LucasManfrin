@@ -19,7 +19,8 @@
 
 - Atualmente estou trabalhando como estágiario de T.I.
 - Estou focando meus estudos em python.
-- Como me contatar: [lucas.manfrin.batista@gmail.com](mailto:seu-email@exemplo.com).
+- Como me contatar: [lucas.manfrin.batista@gmail.com](mailto:seu-email@exemplo.com)
+- Apaixonado por programação, esportes e carros.
 
 ---
 
