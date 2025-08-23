@@ -6,6 +6,7 @@
 <br>
 
 <div align="center">
+  <img href="https://media.licdn.com/dms/image/v2/D4D03AQHd6AGOn1C_tw/profile-displayphoto-shrink_800_800/B4DZY_ViBkH4Ac-/0/1744819331997?e=1758758400&v=beta&t=UDX6iRF2ikgxgMmXu3K4xDp-L9oZvt0IclBobtJKD3Y">
   <img src="https://github-readme-stats.vercel.app/api?username=LucasManfrin&show_icons=true&theme=dark" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasManfrin&layout=compact&theme=dark" alt="Top Languages">
 </div>
@@ -28,6 +29,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 </div>
 
 ---
