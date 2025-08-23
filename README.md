@@ -1,3 +1,5 @@
+<img src="https://media.licdn.com/dms/image/v2/D4D03AQHd6AGOn1C_tw/profile-displayphoto-shrink_800_800/B4DZY_ViBkH4Ac-/0/1744819331997?e=1758758400&v=beta&t=UDX6iRF2ikgxgMmXu3K4xDp-L9oZvt0IclBobtJKD3Y" alt="Minha Foto de Perfil" width="150">
+
 <div align="center">
   <h1 align="center">Olá! Eu sou Lucas Manfrin</h1>
   <p align="center">Desenvolvedor em Formação</p>
