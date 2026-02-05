@@ -7,10 +7,27 @@
 <br>
 
 <div align="center">
-  <img href="https://media.licdn.com/dms/image/v2/D4D03AQHd6AGOn1C_tw/profile-displayphoto-shrink_800_800/B4DZY_ViBkH4Ac-/0/1744819331997?e=1758758400&v=beta&t=UDX6iRF2ikgxgMmXu3K4xDp-L9oZvt0IclBobtJKD3Y">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasManfrin&show_icons=true&theme=dark" alt="GitHub Stats" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasManfrin&layout=compact&theme=dark" alt="Top Languages" width="400">
+  <img 
+    src="https://media.licdn.com/dms/image/v2/D4D03AQHd6AGOn1C_tw/profile-displayphoto-shrink_800_800/B4DZY_ViBkH4Ac-/0/1744819331997?e=1758758400&v=beta&t=UDX6iRF2ikgxgMmXu3K4xDp-L9oZvt0IclBobtJKD3Y"
+    width="150"
+    style="border-radius: 50%;"
+  />
+
+  <br><br>
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=LucasManfrin&show_icons=true&theme=dark"
+    alt="GitHub Stats"
+    width="400"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasManfrin&layout=compact&theme=dark"
+    alt="Top Languages"
+    width="400"
+  />
 </div>
+
 
 ---
 
