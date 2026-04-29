@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Lucas Manfrin
 
-🎓 **Desenvolvedor em Formação**  
-💼 Estagiário de T.I.  
+🎓 **Desenvolvedor Backend**  
+💼 Estagiário em Automação de Processos.  
 🐍 Focado em Python  
 🚗 Apaixonado por programação, esportes e carros
 
@@ -9,7 +9,7 @@
 
 ## 💻 Sobre mim
 
-- Atualmente trabalho como **estagiário de T.I.**
+- Atualmente trabalho como na **Join4**
 - Estou focando meus estudos em **Python**
 - Tenho interesse em desenvolvimento backend, APIs e sistemas
 - Busco evoluir constantemente como desenvolvedor
