@@ -1,8 +1,8 @@
 # 👋 Olá! Eu sou Lucas Manfrin
 
 🎓 **Desenvolvedor Backend**  
-💼 Estagiário em Automação de Processos.  
-🐍 Focado em Python  
+💼 Trainee em Automação de Processos.  
+🐍 Focado em Python e Java
 🚗 Apaixonado por programação, esportes e carros
 
 ---
